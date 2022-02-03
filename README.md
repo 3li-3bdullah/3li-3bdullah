@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋,I'm Ali</h1>
+<h1 align="center">Hi 👋,I'm Ali
+
+</h1>
 <p align="center">A self taught programmer</p>
 
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" align="right" width="25%"/>
+
 
 <!-- I'm a Flutter Developer , look always for new and enjoying when i share what i know. -->
 
@@ -25,10 +27,11 @@ Here are some ideas to get you started: -->
 
 
 Languages and Tools :
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+<p>
+<a href="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+</p>
 
 
-
-https://github-readme-stats.vercel.app/api?username={3li-3bdullah}&theme=blue-green
+<a href="https://github-readme-stats.vercel.app/api?username={3li-3bdullah}&theme=blue-green"/></a>
