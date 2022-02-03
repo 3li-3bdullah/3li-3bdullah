@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ali
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="30px"/>
+<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1>
 <p align="center">A self taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
@@ -29,9 +29,9 @@ Here are some ideas to get you started: -->
 Languages :
 
 <!-- <a href="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> -->
-<a href="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username={3li-3bdullah}&theme=blue-green"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username={3li-3bdullah}&theme=blue-green"/>
 </p>
