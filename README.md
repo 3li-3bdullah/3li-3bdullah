@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ali
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
+<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="40px"/>
 </h1>
 <p align="center">A self taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
@@ -19,9 +19,9 @@ Here are some ideas to get you started: -->
 
  Connect with me :
 <p align="center">
-  <a href="https://twitter.com/AliAbdullah49?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100017288552506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
- <!-- <a href="https://www.linkedin.com/in/ali-abdullah-118a82229"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://twitter.com/AliAbdullah49?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100017288552506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white"></a>
+ <!-- <a href="https://www.linkedin.com/in/ali-abdullah-118a82229"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin&logoColor=white"></a> -->
 </p>
 
 
@@ -33,5 +33,5 @@ Languages :
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username={3li-3bdullah}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
 </p>
