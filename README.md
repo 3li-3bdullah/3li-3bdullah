@@ -24,7 +24,7 @@ Here are some ideas to get you started: -->
  <!-- <a href="https://www.linkedin.com/in/ali-abdullah-118a82229"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin&logoColor=white"></a> -->
 </p>
 <hr>
-Email: <a href="AliAbdulah.SD@gmail.com"/></a>
+Email: <a href="gmail.com"/>AliAbdulah.SD@gmail.com</a>
 <hr>
 
 
