@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 <p align="center">
   <a href="https://twitter.com/AliAbdullah49?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100017288552506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white"></a>
- <!-- <a href="https://www.linkedin.com/in/ali-abdullah-118a82229"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin&logoColor=white"></a> -->
+ <a href="https://www.linkedin.com/in/3li-3bdullah"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin&logoColor=white"></a> 
 </p>
 
 
