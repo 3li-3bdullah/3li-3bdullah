@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact i love to play chess and drinking coffee. 
 
  Connect with me :
+ - personal email : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
 <p align="center">
   <a href="https://twitter.com/AliAbdullah49?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100017288552506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white"></a>
