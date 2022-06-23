@@ -38,3 +38,4 @@ Languages and Tools:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah"/>
