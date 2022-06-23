@@ -38,4 +38,4 @@ Languages and Tools:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
 </p>
-<p dir="auto"><a href="https://github.com/3li-3bdullah?tab=repositories"><img src="https://camo.githubusercontent.com/121d94844edf08d59c50e8313a29ac1df88f363af8b4d485fc516d2f27684767/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d6f737461666142617374617779" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=3li-abdullah" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/3li-3bdullah?tab=repositories"><img src="https://camo.githubusercontent.com/121d94844edf08d59c50e8313a29ac1df88f363af8b4d485fc516d2f27684767/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d6f737461666142617374617779" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah" style="max-width: 100%;"></a></p>
