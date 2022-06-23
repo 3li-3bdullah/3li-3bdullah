@@ -35,5 +35,6 @@ Languages and Tools:
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30px"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="55px"/>
 </p>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
+</p>
