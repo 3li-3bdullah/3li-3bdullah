@@ -35,10 +35,5 @@ Languages and Tools:
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30px"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="55px"/>
 </p>
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
-</p>
-<p align="center">
-img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah"
-</p>
-<!-- <p dir="auto"><a href="https://github.com/3li-3bdullah?tab=repositories"><img src="https://camo.githubusercontent.com/121d94844edf08d59c50e8313a29ac1df88f363af8b4d485fc516d2f27684767/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d6f737461666142617374617779" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah" style="max-width: 100%;"></a></p> -->
