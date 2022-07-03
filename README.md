@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ali
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="40px"/>
+<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1>
 <p align="center">A self-taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
