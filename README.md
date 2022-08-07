@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Ali
 <img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1> 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Flutter+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Mobile+Applications+Developer|Flutter+%F0%9F%92%99." alt="Typing SVG" /> </p>
 <p align="center">A self-taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
 
@@ -11,7 +11,7 @@
 **3li-3bdullah/3li-3bdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<!--
 - 🔭 I’m currently working Freelancer 🏮💻.
 - 🌱 I’m currently learning Flutter 💙✨.
 - 👯 I’m looking to collaborate with other content creators.
@@ -41,3 +41,4 @@ Languages and Tools:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah"/>
 </p>
+-->
