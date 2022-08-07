@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=&vCenter=&lines=Hi+%F0%9F%91%8B+%2C+I'm+Ali+Abdullah++Flutter+Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=&vCenter=&lines=Flutter+Developer+" alt="Typing SVG" /></a>
 <p align="center">A self-taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
 
