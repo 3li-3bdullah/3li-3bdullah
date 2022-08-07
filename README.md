@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋,I'm Ali
 <img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1> 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=&vCenter=&lines=Flutter+Developer+" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=&vCenter=&lines=Flutter+Developer+" alt="Typing SVG" /></a></p>
 <p align="center">A self-taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
-
 
 <!-- I'm a Flutter Developer , look always for new and enjoying when i share what i know. -->
 
