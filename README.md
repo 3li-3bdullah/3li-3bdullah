@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Ali
 <img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
 </h1> 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Mobile+Apps+Dev|Flutter+%F0%9F%92%99." alt="Typing SVG" /> </p>
+<!-- <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Flutter+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p> -->
 <p align="center">A self-taught programmer</p>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
 
@@ -42,11 +42,12 @@ Languages and Tools:
 <img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah"/>
 </p>
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3li-3bdullah&label=Profile%20views&color=0e75b6&style=flat" alt="3li-3bdullah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3li-3bdullah&label=Profile%20views&color=0e75b6&style=flat" alt="3li-3bdullah" /> </p> <p> </p> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Flutter+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah" alt="3li-3bdullah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aliabdullah49" target="blank"><img src="https://img.shields.io/twitter/follow/aliabdullah49?logo=twitter&style=for-the-badge" alt="aliabdullah49" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/aliabdullah49" target="blank"><img src="https://img.shields.io/twitter/follow/aliabdullah49?logo=twitter&style=for-the-badge" alt="aliabdullah49" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [Gggg](Gggg) -->
 
