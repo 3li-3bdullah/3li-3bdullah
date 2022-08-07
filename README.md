@@ -53,7 +53,7 @@ Languages and Tools:
 
 - 💬 Ask me about **Flutter, Dart.**
 
-- 📫 How to reach me **AliAdbulah.SD@gmail.com**
+- 📫 How to reach me : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
 
 - ⚡ Fun fact **i love to play chess and drinking coffee.**
 
