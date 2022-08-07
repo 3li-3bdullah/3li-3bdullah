@@ -51,11 +51,12 @@ Languages and Tools:
 
 <!-- - 👨‍💻 All of my projects are available at [Gggg](Gggg) -->
 
-- 💬 Ask me about **Flutter, Dart.**
+- 🔭 I’m currently working Freelancer 🏮💻.
+- 🌱 I’m currently learning Flutter 💙✨.
+- 👯 I’m looking to collaborate with other content creators.
+- ⚡ Fun fact i love to play chess and drinking coffee. 
 
 - 📫 How to reach me : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
-
-- ⚡ Fun fact **i love to play chess and drinking coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,12 +67,9 @@ Languages and Tools:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3li-3bdullah&show_icons=true&locale=en&layout=compact" alt="3li-3bdullah" /></p> 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3li-3bdullah&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="3li-3bdullah" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&show_icons=true&locale=en" alt="3li-3bdullah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&show_icons=true&locale=en&theme=blue-green" alt="3li-3bdullah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&" alt="3li-3bdullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&theme=blue-green" alt="3li-3bdullah" /></p>
 
