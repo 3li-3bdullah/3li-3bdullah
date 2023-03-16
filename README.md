@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 <!--
 - 🔭 I’m currently working Freelancer 🏮💻.
 - 🌱 I’m currently learning Flutter 💙✨.
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other Flutter developer.
 - ⚡ Fun fact i love to play chess and drinking coffee. 
 
  Connect with me :
@@ -53,7 +53,7 @@ Languages and Tools:
 
 - 🔭 I’m currently working Freelancer 🏮💻.
 - 🌱 I’m currently learning Flutter 💙✨.
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other Flutter developers.
 - ⚡ Fun fact i love to play chess and drinking coffee. 
 
 - 📫 How to reach me : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
