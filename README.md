@@ -1,5 +1,13 @@
+<p align="center"> <img src="https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a" width ="50px"/>  </p>
 <h1 align="center">Hi 👋,I'm Ali
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px"/>
+<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px" style="border-radius: 50%;" />
+
+
+<!--  ![aloosh](https://github.com/user-attachments/assets/22377481-942a-49c4-8c24-6d73af592129) -->
+ 
+ <!-- ![code](https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a) -->
+ 
+ 
 </h1> 
 <!-- <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Flutter+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p> -->
 <p align="center">A self-taught programmer</p>
@@ -50,6 +58,8 @@ Languages and Tools:
 <!-- <p align="left"> <a href="https://twitter.com/aliabdullah49" target="blank"><img src="https://img.shields.io/twitter/follow/aliabdullah49?logo=twitter&style=for-the-badge" alt="aliabdullah49" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [Gggg](Gggg) -->
+![aloosh](https://github.com/user-attachments/assets/22377481-942a-49c4-8c24-6d73af592129)
+
 
 - 🔭 I’m currently working Freelancer 🏮💻.
 - 🌱 I’m currently learning Flutter 💙✨.
