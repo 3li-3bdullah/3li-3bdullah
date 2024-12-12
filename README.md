@@ -1,10 +1,11 @@
 
 <p> <img src="https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a" width ="50px"/>  </p>
 <h1 align="center">Hi 👋,I'm Ali Abdullah</h1>
-# 💫 About Me:<br>
+#💫 About Me:<br>
 🔭 I’m currently working as a Technical Team Lead & Sr Software Mobile Eng.<br>👯 I’m looking to collaborate on projects and events.<br>🌱 I’m currently learning Flutter & Android.<br>💬 Ask me about Software Engineer.<br>⚡ Fun fact i like to play video game, watch anime and reading.
+<br>
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3li-3bdullah&label=Profile%20views&color=0e75b6&style=flat" alt="3li-3bdullah" /> </p> <p> </p> <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Mobile+Applications+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p>
 
 ## 🌐 Socials:
@@ -20,8 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=3li-3bdullah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Ran Advice
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=3li-3bdullah&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -29,9 +30,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=3li-3bdullah&icon=8&color=11)](https://visitcount.itsvg.in)
 
+<!--
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3li-3bdullah) 
-
+-->
 
 <img align="right" height="150" src="https://chaostangent.com/media/2017/10/karoshi-01.jpg"  />
 <img align="left" height="150" src="https://camo.githubusercontent.com/b206483e3c0be46cfefaf632a97bec1a054fc7973ac1bd3d6167253c04f36419/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77696c596f5f3777474b5941414141432f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966"  />
