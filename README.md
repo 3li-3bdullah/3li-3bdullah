@@ -1,87 +1,41 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a" width ="50px"/>  </p>
-<h1 align="center">Hi 👋,I'm Ali
-<img src="https://avatars.githubusercontent.com/u/89943558?v=4" width="50px" style="border-radius: 50%;" />
 
-
-<!--  ![aloosh](https://github.com/user-attachments/assets/22377481-942a-49c4-8c24-6d73af592129) -->
- 
- <!-- ![code](https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a) -->
- 
- 
-</h1> 
-<!-- <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Flutter+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p> -->
-<p align="center">A self-taught programmer</p>
+<p> <img src="https://github.com/user-attachments/assets/1f248251-82ae-4caf-9f24-03c55ccb2c6a" width ="50px"/>  </p>
+<h1 align="center">Hi 👋,I'm Ali Abdullah</h1>
+# 💫 About Me:<br>
+🔭 I’m currently working as a Technical Team Lead & Sr Software Mobile Eng.<br>👯 I’m looking to collaborate on projects and events.<br>🌱 I’m currently learning Flutter & Android.<br>💬 Ask me about Software Engineer.<br>⚡ Fun fact i like to play video game, watch anime and reading.
 <a href="https://img.shields.io/github/watchers/3li-3bdullah/3li-3bdullah?label=watchers&style=plastic"/></a>
 
-<!-- I'm a Flutter Developer , look always for new and enjoying when i share what i know. -->
-
-<!--
-**3li-3bdullah/3li-3bdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-<!--
-- 🔭 I’m currently working Freelancer 🏮💻.
-- 🌱 I’m currently learning Flutter 💙✨.
-- 👯 I’m looking to collaborate with other Flutter developer.
-- ⚡ Fun fact i love to play chess and drinking coffee. 
-
- Connect with me :
- - personal email : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
-<p align="center">
-  <a href="https://twitter.com/AliAbdullah49?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100017288552506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/3li-3bdullah"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin&logoColor=white"></a> 
-</p>
-
-
-
-Languages and Tools:
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="70px"/>
-<img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width="30px"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" width="55px"/>
-<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30px"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="55px"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=blue-green"/>
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah"/>
-</p>
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3li-3bdullah&label=Profile%20views&color=0e75b6&style=flat" alt="3li-3bdullah" /> </p> <p> </p> <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Mobile+Applications+Developer+%F0%9F%92%99." alt="Typing SVG" /> </p>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017288552506) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://sd.linkedin.com/in/3li-3bdullah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aliabdulah.sd) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18250786/ali-abdullah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AliAbdullah49) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah" alt="3li-3bdullah" /></a> </p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=3li-3bdullah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3li-3bdullah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <p align="left"> <a href="https://twitter.com/aliabdullah49" target="blank"><img src="https://img.shields.io/twitter/follow/aliabdullah49?logo=twitter&style=for-the-badge" alt="aliabdullah49" /></a> </p> -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=3li-3bdullah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- - 👨‍💻 All of my projects are available at [Gggg](Gggg) -->
-![aloosh](https://github.com/user-attachments/assets/22377481-942a-49c4-8c24-6d73af592129)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=3li-3bdullah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=3li-3bdullah&icon=8&color=11)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3li-3bdullah) 
 
 
-- 🔭 I’m currently working Freelancer 🏮💻.
-- 🌱 I’m currently learning Flutter 💙✨.
-- 👯 I’m looking to collaborate with other Flutter developers.
-- ⚡ Fun fact i love to play chess and drinking coffee. 
+<img align="right" height="150" src="https://chaostangent.com/media/2017/10/karoshi-01.jpg"  />
+<img align="left" height="150" src="https://camo.githubusercontent.com/b206483e3c0be46cfefaf632a97bec1a054fc7973ac1bd3d6167253c04f36419/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77696c596f5f3777474b5941414141432f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966"  />
 
-- 📫 How to reach me : <a href="mailto:aliabdulah.sd@gmail.com">aliabdulah.sd@gmail.com</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aliabdullah49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliabdullah49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/3li-3bdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3li-3bdullah" height="30" width="40" /></a>
-</p>
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3li-3bdullah&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="3li-3bdullah" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&show_icons=true&locale=en&theme=blue-green" alt="3li-3bdullah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&theme=blue-green" alt="3li-3bdullah" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
