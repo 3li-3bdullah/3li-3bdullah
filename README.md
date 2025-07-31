@@ -98,8 +98,6 @@ class AliAbdullah extends Developer {
 | 🔭 Lead technical innovation | ████████░░ 80% |
 | 👯 Open source contributions | ██████░░░░ 60% |
 | 🌱 Master advanced Flutter | ████████░░ 85% |
-| 💬 Share knowledge 
-| ⚡ Build amazing projects 
 
 </div>
 
@@ -166,7 +164,6 @@ class AliAbdullah extends Developer {
 **💼 Open for freelance projects and collaborations!**  
 **📧 Let's discuss your next big idea!**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=3li-3bdullah&icon=8&color=11&label=Awesome%20Visitors&labelColor=0d1117&countColor=00d4aa)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -179,3 +176,5 @@ class AliAbdullah extends Developer {
 ---
 
 *⭐ If you like my work, don't forget to give it a star! ⭐*
+
+
