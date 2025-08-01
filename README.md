@@ -73,10 +73,10 @@ class AliAbdullah extends Developer {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3li-3bdullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&icon_color=00d4aa&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-3bdullah&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&hide_border=true"/>
 
-</div>
-
+<p></p>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&theme=tokyonight&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" width="100%"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3li-3bdullah&theme=blue-green" alt="3li-3bdullah" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ class AliAbdullah extends Developer {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=3li-3bdullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 </div>
 
 ---
